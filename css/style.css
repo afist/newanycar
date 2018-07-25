@@ -278,7 +278,7 @@ header .container{
 /*main*/
 
 .main{
-    padding-top: 100px;
+       padding-top: 50px;
     padding-bottom: 35px;
     -moz-background-size: cover;
     background-size: cover;
